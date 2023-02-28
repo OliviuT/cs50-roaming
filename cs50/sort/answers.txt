@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: high difference in the sorted list when compared to selection sort, making this the bubble sort
+
+sort2 uses: merge sort
+
+How do you know?: Quickest in the reversed 50k list
+
+sort3 uses: Selection sort
+
+How do you know?: worst performance wihtin the sorted list, as it hat to check everything
